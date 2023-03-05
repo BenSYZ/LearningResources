@@ -4,12 +4,14 @@
 * [youtube: Device Tree: hardware description for everybody !](https://www.youtube.com/watch?v=Nz6aBffv-Ek)
 
 ## 准备看的
-来源在下面
-* ucore
+* [bili: 操作系统概述](https://www.bilibili.com/video/BV1Cm4y1d7Ur)
 * 《Linux 内核设计与实现》
 * 《深入理解linux内核 （第三版）》
-* 《Linux 内核完全注释》（评分不是很高）（得评估一下）
-* [操作系统概述](https://www.bilibili.com/video/BV1Cm4y1d7Ur)
+* ~~《Linux 内核完全注释》（?评分不是很高,得评估一下）~~
+
+## others
+近期不会看的
+* ucore(?,rust and not direct)
 
 ## source
 ### [bili: 以这本书入门linux内核开发，是大部分程序员的最好选择](https://www.bilibili.com/video/BV15e4y1P7dX)
