@@ -1,6 +1,6 @@
 ## 目前在看的
 * [bili: 计算机组成原理（哈工大刘宏伟）](https://www.bilibili.com/video/BV1t4411e7LH) 
-* [doc abort dts from kernel](https://www.kernel.org/doc/Documentation/devicetree/) and its subdir [binding](https://www.kernel.org/doc/Documentation/devicetree/bindings/)
+* [doc about dts from kernel](https://www.kernel.org/doc/Documentation/devicetree/) and its subdir [binding](https://www.kernel.org/doc/Documentation/devicetree/bindings/)
 * [youtube: Device Tree: hardware description for everybody !](https://www.youtube.com/watch?v=Nz6aBffv-Ek)
 
 ## 准备看的
