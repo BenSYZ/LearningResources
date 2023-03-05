@@ -13,7 +13,9 @@
 近期不会看的
 * ucore(?,rust and not direct)
 
-## source
+## Clues:
+从哪里找到这些资源的，以避免不知道为什么这个书这个课被推荐了。
+
 ### [bili: 以这本书入门linux内核开发，是大部分程序员的最好选择](https://www.bilibili.com/video/BV15e4y1P7dX)
 这个视频中推荐：
 《Linux 内核设计与实现》，说是翻译挺好
