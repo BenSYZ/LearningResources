@@ -12,6 +12,7 @@
 ## others
 近期不会看的
 * ucore(?,rust and not direct)
+* https://github.com/plctlab/weloveinterns/blob/master/how-do-we-rank-interns.md
 
 ## Clues:
 从哪里找到这些资源的，以避免不知道为什么这个书这个课被推荐了。
