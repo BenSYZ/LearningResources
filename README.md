@@ -7,16 +7,17 @@
 * [bili: 操作系统概述](https://www.bilibili.com/video/BV1Cm4y1d7Ur)
 * 《Linux 内核设计与实现》
 * 《深入理解linux内核 （第三版）》
-* ~~《Linux 内核完全注释》（?评分不是很高,得评估一下）~~
+* ~~《Linux 内核完全注释》（?评分不是很高,得评估一下）~~\
+* https://github.com/u-boot/u-boot/blob/master/doc/README.enetaddr
 
 ## others
 近期不会看的
 * ucore(?,rust and not direct)
-* https://github.com/plctlab/weloveinterns/blob/master/how-do-we-rank-interns.md
 
 ## Clues:
 从哪里找到这些资源的，以避免不知道为什么这个书这个课被推荐了。
 
+### [we love interns](https://github.com/plctlab/weloveinterns/blob/master/how-do-we-rank-interns.md)
 ### [bili: 以这本书入门linux内核开发，是大部分程序员的最好选择](https://www.bilibili.com/video/BV15e4y1P7dX)
 这个视频中推荐：
 《Linux 内核设计与实现》，说是翻译挺好
