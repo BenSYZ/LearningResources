@@ -1,19 +1,21 @@
 ## 目前在看的
 * [bili: 计算机组成原理（哈工大刘宏伟）](https://www.bilibili.com/video/BV1t4411e7LH) 
-* [doc about dts from kernel](https://www.kernel.org/doc/Documentation/devicetree/) and its subdir [binding](https://www.kernel.org/doc/Documentation/devicetree/bindings/)
-* [youtube: Device Tree: hardware description for everybody !](https://www.youtube.com/watch?v=Nz6aBffv-Ek)
+* [bili: 操作系统概述](https://www.bilibili.com/video/BV1Cm4y1d7Ur)
+* 《深入 Linux 内核架构》Wolfgang Mauerer （放在 kindle 上那本，上来直接看代码，有点麻烦，不过还是推荐的）
+* 《深入理解linux内核 （第三版）》O’Reilly Daniel P. Bovet and Marco Cesati (中文版好像不是很推荐）(浅读尝试一下）
 
 ## 准备看的
-* [bili: 操作系统概述](https://www.bilibili.com/video/BV1Cm4y1d7Ur)
-* 《Linux 内核设计与实现》
-* 《深入理解linux内核 （第三版）》O’Reilly Daniel P. Bovet and Marco Cesati (中文版好像不是很推荐）
-* 《深入 Linux 内核架构》Wolfgang Mauerer （放在 kindle 上，上来直接看代码，有点麻烦，不过还是推荐的）
-* ~~《Linux 内核完全注释》（?评分不是很高,得评估一下）~~\
+* ~~《Linux 内核设计与实现》(中文版好像不推荐）~~
+* ~~《Linux 内核完全注释》（?评分不是很高,得评估一下）~~
 * https://github.com/u-boot/u-boot/blob/master/doc/README.enetaddr
 
 ## others
 近期不会看的
 * ucore(?,rust and not direct)
+* [doc about dts from kernel](https://www.kernel.org/doc/Documentation/devicetree/) and its subdir [binding](https://www.kernel.org/doc/Documentation/devicetree/bindings/)
+* [youtube: Device Tree: hardware description for everybody !](https://www.youtube.com/watch?v=Nz6aBffv-Ek)
+
+
 
 ## Clues:
 从哪里找到这些资源的，以避免不知道为什么这个书这个课被推荐了。
