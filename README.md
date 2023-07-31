@@ -6,7 +6,8 @@
 ## 准备看的
 * [bili: 操作系统概述](https://www.bilibili.com/video/BV1Cm4y1d7Ur)
 * 《Linux 内核设计与实现》
-* 《深入理解linux内核 （第三版）》
+* 《深入理解linux内核 （第三版）》O’Reilly (中文版好像不是很推荐）
+* 《深入 Linux 内核架构》Wolfgang Mauerer （放在 kindle 上，上来直接看代码，有点麻烦，不过还是推荐的）
 * ~~《Linux 内核完全注释》（?评分不是很高,得评估一下）~~\
 * https://github.com/u-boot/u-boot/blob/master/doc/README.enetaddr
 
