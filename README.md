@@ -9,13 +9,16 @@
 * ~~《Linux 内核完全注释》（?评分不是很高,得评估一下）~~
 * https://github.com/u-boot/u-boot/blob/master/doc/README.enetaddr
 
-## others
+## others 1
 近期不会看的
 * ucore(?,rust and not direct)
 * [doc about dts from kernel](https://www.kernel.org/doc/Documentation/devicetree/) and its subdir [binding](https://www.kernel.org/doc/Documentation/devicetree/bindings/)
 * [youtube: Device Tree: hardware description for everybody !](https://www.youtube.com/watch?v=Nz6aBffv-Ek)
 
-
+## others 2
+### about memory
+* table of contents of linux kernel docs: [kernel doc toc](https://www.kernel.org/doc/)
+* https://www.kernel.org/doc/gorman/html/understand/
 
 ## Clues:
 从哪里找到这些资源的，以避免不知道为什么这个书这个课被推荐了。
