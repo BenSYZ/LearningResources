@@ -3,8 +3,10 @@
 * [bili: 操作系统概述](https://www.bilibili.com/video/BV1Cm4y1d7Ur)
 * 《深入 Linux 内核架构》Wolfgang Mauerer （放在 kindle 上那本，上来直接看代码，有点麻烦，不过还是推荐的）
 * 《深入理解linux内核 （第三版）》O’Reilly Daniel P. Bovet and Marco Cesati (中文版好像不是很推荐）(浅读尝试一下）
+* 简单的 PCIe 架构的文档 <https://www.renesas.cn/cn/zh/document/apn/531-pci-express-system-interconnect>
 
-## 准备看的
+## 准备看的[531-pci-express-system-interconnect.pdf](https://github.com/BenSYZ/LearningResources/files/14596322/531-pci-express-system-interconnect.pdf)
+
 * ~~《Linux 内核设计与实现》(中文版好像不推荐）~~
 * ~~《Linux 内核完全注释》（?评分不是很高,得评估一下）~~
 * https://github.com/u-boot/u-boot/blob/master/doc/README.enetaddr
